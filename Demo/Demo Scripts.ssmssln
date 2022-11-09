@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{18D9DDB5-509D-44B0-A1BB-A1DEF95A2B3B}"
+	ProjectSection(SolutionItems) = preProject
+		0_Reset.sql = 0_Reset.sql
+		1_Overview.sql = 1_Overview.sql
+		2_Histogram.sql = 2_Histogram.sql
+		3_Nested Loop Joins.sql = 3_Nested Loop Joins.sql
+		4_Scenario X.sql = 4_Scenario X.sql
+		5_Temp Tables.sql = 5_Temp Tables.sql
+		x_Estimates.sql = x_Estimates.sql
+		x_unique_data_example.sql = x_unique_data_example.sql
+		x_Which Stats.sql = x_Which Stats.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F133F1-E01F-4884-82C3-61A4A43BE0FA}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF883CB-C5F8-4BDB-9474-5BADC7E99B9A}
+	EndGlobalSection
+EndGlobal
